@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="tv_start_msg">Click on below button to view card</string>
+    <string name="btn_start_card">Start</string>
+    <string name="cardview_contents">This is card view demo and you are watching Card!!!</string>
+
+    <string name="app_name">ETijori</string>
+    <string name="tv_lbl_enter_password">Enter Password:</string>
+    <string name="btn_lbl_submit">Submit</string>
+    <string name="msg_invalid_password">Invalid password</string>
+    <string name="msg_invalid_confirm_password">Invalid confirm password</string>
+    <string name="msg_password_mismatch">Password and confirm password are not matching</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_update">Update</string>
+
+    <string name="et_hint_acc_type">Account Type</string>
+    <string name="et_hint_user_name">User Name</string>
+    <string name="et_hint_password">Password</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+
+    <string name="btn_lbl_save">Save</string>
+    <string name="btn_lbl_cancel">Cancel</string>
+
+    <string name="msg_lock_key_created">ETijori Key Set Successfully!!!</string>
+    <string name="msg_add_acc_fail">Adding account failed</string>
+</resources>

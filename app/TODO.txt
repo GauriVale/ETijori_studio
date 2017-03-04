@@ -1,0 +1,6 @@
+unit testing
+app sign by release key
+upload / save data on firebase server
+provide sync feature
+encrypt data by blowfish algorithm
+session
